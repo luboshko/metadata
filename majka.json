@@ -1,0 +1,25 @@
+{
+  "name": "Majka",
+  "symbol": "MZH",
+  "uri": "https://example.com/token/1",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "YOUR_SOLANA_ADDRESS",
+  "seller_fee_collection_address": "YOUR_SOLANA_ADDRESS",
+  "image": "https://example.com/token/1/image",
+  "seller_fee_burn_address": null,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/token/1/file",
+        "type": "text/plain"
+      }
+    ],
+    "category": "digital",
+    "creators": [
+      {
+        "address": "YOUR_SOLANA_ADDRESS",
+        "share": 100
+      }
+    ]
+  }
+}
