@@ -1,0 +1,11 @@
+{
+  "name": "TASGEO",
+  "symbol": "TASG",
+  "description": "Tasmania Land Size",
+  "image": "https://raw.githubusercontent.com/luboshko/metadata/main/tasgeo.png",
+  "extensions": {
+    "website": "",
+    "twitter": "",
+    "telegram": ""
+  }
+}
